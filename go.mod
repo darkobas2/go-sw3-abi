@@ -1,3 +1,3 @@
-module github.com/ethersphere/go-sw3-abi
+module github.com/darkobas2/go-sw3-abi
 
 go 1.15
